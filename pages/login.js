@@ -55,7 +55,7 @@ function Login() {
           </div>
           <div className="col col-md-5 d-flex flex-column justify-content-center">
             <h3 className="text-center text-md-start fw-bold">
-              Halo, Pewpoeple
+              Halo, Pewpeople
             </h3>
             <form onSubmit={(e) => e.preventDefault()}>
               <div className="mb-3">
